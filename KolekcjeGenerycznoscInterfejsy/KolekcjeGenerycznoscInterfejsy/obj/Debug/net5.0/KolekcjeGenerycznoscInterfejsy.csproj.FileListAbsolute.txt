@@ -1,0 +1,16 @@
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.exe
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.deps.json
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.runtimeconfig.json
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.runtimeconfig.dev.json
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.dll
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\ref\KolekcjeGenerycznoscInterfejsy.dll
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\bin\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.pdb
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.AssemblyInfo.cs
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.dll
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\ref\KolekcjeGenerycznoscInterfejsy.dll
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.pdb
+C:\Users\adamk\source\repos\KolekcjeGenerycznoscInterfejsy\KolekcjeGenerycznoscInterfejsy\obj\Debug\net5.0\KolekcjeGenerycznoscInterfejsy.genruntimeconfig.cache
