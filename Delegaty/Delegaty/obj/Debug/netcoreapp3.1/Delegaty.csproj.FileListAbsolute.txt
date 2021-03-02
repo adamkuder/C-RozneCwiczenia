@@ -1,0 +1,13 @@
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.exe
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.deps.json
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.runtimeconfig.json
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.runtimeconfig.dev.json
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.dll
+C:\Users\adamk\source\repos\Delegaty\Delegaty\bin\Debug\netcoreapp3.1\Delegaty.pdb
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.AssemblyInfo.cs
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.dll
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.pdb
+C:\Users\adamk\source\repos\Delegaty\Delegaty\obj\Debug\netcoreapp3.1\Delegaty.genruntimeconfig.cache
